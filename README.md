@@ -15,7 +15,6 @@ I focus on writing **maintainable code**, understanding problems deeply, and con
 - JavaScript
 - Java
 - C
-- C++
 
 ### Frontend Development
 - HTML
@@ -24,8 +23,7 @@ I focus on writing **maintainable code**, understanding problems deeply, and con
 - React
 
 ### Backend & Databases
-- Node.js
-- Express
+- Django
 - MySQL
 - MongoDB (basic)
 
