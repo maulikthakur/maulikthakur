@@ -31,27 +31,38 @@ I focus on writing **maintainable code**, understanding problems deeply, and con
 - Machine Learning fundamentals
 - Computer Vision (Face Recognition)
 - Recommendation Systems
+- AI Agents (conceptual & applied projects)
+
+### Tools & Platforms
+- Linux
+- Git & GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Course Recommendation System
-- Recommends courses based on user-entered skills  
-- Demonstrates decision logic and frontend interaction  
+- Recommends courses based on user-entered skills
+- Implements decision logic for personalized suggestions
 - **Tech:** HTML, CSS, JavaScript
 
 ### 🔹 Facial Recognition System
-- Computer vision project for face detection and recognition  
-- Uses real-world Python libraries  
+- Computer vision project for face detection and recognition
+- Uses real-world Python libraries for face encoding and matching
 - **Tech:** Python, dlib, OpenCV
+
+### 🔹 AI Agent for Digital Financial Literacy
+- AI-based agent designed to improve financial awareness
+- Provides guidance on digital finance concepts and best practices
+- **Tech:** Python, AI/ML concepts, intelligent decision logic
+
 ---
 
 ## 🎯 What I’m Currently Focusing On
-- Strengthening **React and full-stack development**
+- Strengthening **Django and backend development**
 - Improving **project architecture and documentation**
 - Building **production-oriented applications**
-- Learning advanced backend and AI integrations
+- Expanding practical AI applications
 
 ---
 
