@@ -38,11 +38,6 @@ I focus on writing **maintainable code**, understanding problems deeply, and con
 
 ## 🚀 Featured Projects
 
-### 🔹 TaskMate – AI-Powered Productivity Assistant
-- Smart task management with AI assistance
-- Focused on productivity automation and user efficiency  
-- **Tech:** Python, AI logic, modular design
-
 ### 🔹 Course Recommendation System
 - Recommends courses based on user-entered skills  
 - Demonstrates decision logic and frontend interaction  
@@ -52,12 +47,6 @@ I focus on writing **maintainable code**, understanding problems deeply, and con
 - Computer vision project for face detection and recognition  
 - Uses real-world Python libraries  
 - **Tech:** Python, dlib, OpenCV
-
-### 🔹 Business Setup Planner
-- Guides new business owners through structured setup steps  
-- Combines business logic with a clean UI  
-- **Tech:** HTML, CSS, JavaScript, Node.js
-
 ---
 
 ## 🎯 What I’m Currently Focusing On
